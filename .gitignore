@@ -1,0 +1,6 @@
+ec_env/
+.env.prod
+.env.env
+__pucache__/
+*.pyc
+*.pyo
