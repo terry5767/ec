@@ -1,6 +1,7 @@
 ec_env/
 .env.prod
 .env.env
-__pucache__/
+__pycache__/
 *.pyc
 *.pyo
+db.sqlite3
